@@ -24,7 +24,7 @@ public class MergeSort {
         }
         
          int l = 0, r= 0;
-         int k = left;
+         int k = left;.
          while(l<leftSize && r < rightSize){
             if(leftArray[l] <= rightArray[r]){
                 ar[k] = leftArray[l];
